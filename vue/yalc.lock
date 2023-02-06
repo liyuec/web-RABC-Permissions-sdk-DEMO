@@ -1,0 +1,8 @@
+{
+  "version": "v1",
+  "packages": {
+    "web-rabc-permissions-sdk": {
+      "signature": "214b36e31abdf862e52541eaf00655b9"
+    }
+  }
+}
